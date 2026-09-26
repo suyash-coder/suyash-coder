@@ -1,9 +1,7 @@
 ### Hey, I'm Suyash 👋 
 
-Welcome to my temporary GitHub landing page. The actual content is still brewing, but in the meantime:
-
+Welcome to my temporary GitHub landing page. The actual content is still brewing
 Check back later when I figure out what to actually put here!
-
 until then you can reach me on my instagram: https://www.instagram.com/suyashvb__?stkn=MWZ2ZGtrMGJ3Zmdtag==
 <!--
 **suyash-coder/suyash-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
